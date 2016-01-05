@@ -1,6 +1,6 @@
 (1..100).each{|i|
-      x = ''
-      x += 'Fizz' if i%3==0
-      x += 'Buzz' if i%5==0 
-      puts(x.empty? ? i : x);
+      output = ''
+      output += 'Fizz' if i%3==0
+      output += 'Buzz' if i%5==0 
+      puts(output.empty? ? i : output);
     }
