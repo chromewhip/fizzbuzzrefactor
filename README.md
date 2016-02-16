@@ -1,2 +1,2 @@
 # fizzbuzzrefactor
-# yuppievancouverite
+Basic Fizzbuzz Refactor in Ruby
